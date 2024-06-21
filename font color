@@ -3,9 +3,10 @@
 <head>
 <title>CORES EM TEXTOS</title>
 </head>
-<body>
 
-<h1>CORES EM TEXTOS</h1>
+<body bgcolor="70dcdc">
+
+<h1 align=center>CORES EM TEXTOS</h1>
 <p>
 EXEMPLOS:</p>
 
@@ -20,12 +21,11 @@ EXEMPLOS:</p>
                   <li><font color="#D2691E">CHOCOLATE</font></li>
                      <li><font color="#A020F0">PURPURA</font></li>
 
-
-
-
-
-
 </ul>
+<div align=right>
 
+ Parabens pela conclusao da tarefa
+</div>
 </body>
+
 </html>
